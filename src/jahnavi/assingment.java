@@ -6,6 +6,7 @@ public class assingment {
 		int a = 5;
 		int var;
 		var = a;
+		int c;
 		System.out.println("var using =:" + var);
 		var += a;
 		System.out.println("var using +:=" + var);
