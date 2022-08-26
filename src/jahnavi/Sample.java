@@ -1,4 +1,4 @@
-package mypackage;
+package jahnavi;
 
 public class Sample 
 
